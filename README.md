@@ -56,7 +56,7 @@
    pip install streamlit
    ```
 
-##Usage \
+## Usage \
 Run it by \
 ```
 streamlit run your_file_name.py
