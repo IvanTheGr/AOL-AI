@@ -23,7 +23,7 @@ The outcome is a lightweight solution that works across operating systems (Windo
 
 ## Installation 
 
-1. Make Sure you're using python version is 3.10.11
+1. Make Sure you're using python version is 3.10.11 \
  If you don't have it, Go to https://www.python.org/downloads/release/python-31011/
  and download the Windows installer.
 
