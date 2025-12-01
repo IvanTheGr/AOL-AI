@@ -81,7 +81,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 
 ## License 
-his project is licensed under the MIT License.  \
+This project is licensed under the (MIT License)MIT License.  \
 You are free to use, modify, and distribute this project for both personal and commercial purposes, as long as proper credit is given.
 
 See the LICENSE file for more details.
