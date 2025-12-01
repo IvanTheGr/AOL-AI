@@ -8,8 +8,8 @@ Using a custom-trained TensorFlow model (emotion_model.h5) and OpenCV-based face
 - Identify head gaze
 - Recognize emotions such as neutral, happy, sad, angry, or fear
 - Log suspicious events such as looking away for too long, disappearing from the screen, or displaying unusual emotional patterns
-- Display real-time feedback and system status through a clean Streamlit interface
-This implementation provides an accessible and efficient alternative to traditional proctoring systems by eliminating dependency-heavy frameworks.
+- Display real-time feedback and system status through a clean Streamlit interface \
+This implementation provides an accessible and efficient alternative to traditional proctoring systems by eliminating dependency-heavy frameworks. \
 The outcome is a lightweight solution that works across operating systems (Windows and macOS), ensures easy installation, and offers flexibility for further enhancement such as behavior classification, user activity logging, or integration into online learning platforms.
 
 
