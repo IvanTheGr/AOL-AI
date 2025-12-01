@@ -1,5 +1,19 @@
 # Implementation AI on Cheating Detection
-### Step by Step to use the system : 
+
+
+
+
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+
+
+
+
+
+
+## Installation: 
 
 1. Make Sure you're using python version is 3.10.11
  If you don't have it, Go to https://www.python.org/downloads/release/python-31011/
@@ -42,7 +56,10 @@
    pip install streamlit
    ```
 
-4. After Installation is done, run the file by :
-   ```
-   streamlit run your_file_name
-   ```
+##Usage \
+Run it by \
+```
+streamlit run your_file_name.py
+```
+then head up to http://localhost:8501/
+
