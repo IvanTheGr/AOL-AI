@@ -1,9 +1,16 @@
 # Implementation AI on Cheating Detection
+
 This project aims to develop an AI-powered cheating detection system designed for online examinations. 
 The system uses a combination of TensorFlow, OpenCV, and Streamlit to monitor user behavior in real time. 
-Without relying on Mediapipe or any complex external dependencies, the program focuses on lightweight, fast, and flexible computer-vision-based monitoring.
-
-
+The system operates through the user’s webcam and continuously analyzes facial presence, gaze direction, and emotional expressions to determine if suspicious behavior occurs during an examination. 
+Using a custom-trained TensorFlow model (emotion_model.h5) and OpenCV-based face detection, the system can:
+- Detect whether the examinee is present in front of the camera
+- Identify head gaze
+- Recognize emotions such as neutral, happy, sad, angry, or fear
+- Log suspicious events such as looking away for too long, disappearing from the screen, or displaying unusual emotional patterns
+- Display real-time feedback and system status through a clean Streamlit interface
+This implementation provides an accessible and efficient alternative to traditional proctoring systems by eliminating dependency-heavy frameworks.
+The outcome is a lightweight solution that works across operating systems (Windows and macOS), ensures easy installation, and offers flexibility for further enhancement such as behavior classification, user activity logging, or integration into online learning platforms.
 
 
 ## Table of Contents
