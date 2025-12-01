@@ -1,5 +1,7 @@
 # Implementation AI on Cheating Detection
-
+This project aims to develop an AI-powered cheating detection system designed for online examinations. 
+The system uses a combination of TensorFlow, OpenCV, and Streamlit to monitor user behavior in real time. 
+Without relying on Mediapipe or any complex external dependencies, the program focuses on lightweight, fast, and flexible computer-vision-based monitoring.
 
 
 
