@@ -1,5 +1,4 @@
 # Implementation AI on Cheating Detection
-
 ### Step by Step to use the system : 
 
 1. Make Sure you're using python version is 3.10.11
@@ -36,5 +35,14 @@
 
    *For Mac users
    ```
-   
+   pip install --upgrade pip
+   pip install opencv-python==4.7.0.72
+   pip install tensorflow-macos==2.12
+   pip install tensorflow-metal==1.0.0    # (optional)
+   pip install streamlit
+   ```
+
+4. After Installation is done, run the file by :
+   ```
+   streamlit run your_file_name
    ```
