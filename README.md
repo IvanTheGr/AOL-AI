@@ -5,8 +5,8 @@
  If you don't have it, Go to https://www.python.org/downloads/release/python-31011/
  and download the Windows installer.
 
-2. Create a Virtual Environment using python version 3.10.11 (recommended) &&\
-   run this in terminal:
+2. Create a Virtual Environment using python version 3.10.11 (recommended) \
+   run this in terminal: \
    *For Windows users
    ```
     py -3.10 -m venv .venv
@@ -19,8 +19,8 @@
    source .venv/bin/activate
    ```
 
-3. After creating Virtual Environment, install all the requirement that is needed to run the system :
-   run this in terminal
+3. After creating Virtual Environment, install all the requirement that is needed to run the system : \
+   run this in terminal\
    *For Windows users
    ```
    pip install opencv-python==4.7.0.72 
