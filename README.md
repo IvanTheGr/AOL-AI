@@ -5,7 +5,7 @@
  If you don't have it, Go to https://www.python.org/downloads/release/python-31011/
  and download the Windows installer.
 
-2. Create a Virtual Environment using python version 3.10.11 (recommended)
+2. Create a Virtual Environment using python version 3.10.11 (recommended) &&\
    run this in terminal:
    *For Windows users
    ```
