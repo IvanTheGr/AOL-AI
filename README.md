@@ -75,9 +75,9 @@ streamlit run your_file_name.py
 ```
 - then head up to http://localhost:8501/ 
 - Next it will show login page 
-- Use the following credentials to log in: 
+- Use the following credentials to log in: \
 Username: admin \
-Password: 1234 \
+Password: 1234 
 - Click the "Start Webcam" button to begin monitoring. 
 - The application will display the webcam feed and log any suspicious behavior. 
 - The application also detect user facial expression and will write it on log. 
