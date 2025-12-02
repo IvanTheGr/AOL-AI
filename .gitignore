@@ -1,0 +1,53 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter / cache
+.ipynb_checkpoints/
+*.ipynb
+
+# Machine Learning Models
+*.h5
+*.hdf5
+*.keras
+*.pb
+checkpoint/
+
+# Training files
+dataset/
+training_data/
+logs/
+checkpoints/
+
+# OpenCV / Streamlit saved files
+*.mp4
+*.avi
+*.jpg
+*.png
+cheating_detection/
+session_*/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS generated
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Streamlit
+.streamlit/
+
+# PyInstaller / build
+build/
+dist/
+*.spec
